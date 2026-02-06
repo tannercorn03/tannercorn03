@@ -11,23 +11,23 @@ Currently seeking opportunities in:
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🏀 Basketball Team Ranking Model (Python)
+### Basketball Team Ranking Model (Python)
 Built a data-driven ranking system using full-season box score statistics and performance metrics.
 → [View Project](https://github.com/tannercorn03/tanner-analytics-portfolio/tree/main/basketball-ranking-model)
 
-### 🚴 Bike Share Customer Analysis
+### Bike Share Customer Analysis
 Analyzed behavioral differences between casual riders and members to recommend marketing strategies that increase conversions.
 → [View Project](https://github.com/tannercorn03/tanner-analytics-portfolio/tree/main/bike-customer-analysis)
 
-### 🏈 Football Defensive Analytics
+### Football Defensive Analytics
 Tracked and analyzed opponent tendencies for a high school football team using Excel pivot tables to support game planning.
 → [View Project](https://github.com/tannercorn03/tanner-analytics-portfolio/tree/main/football-analysis)
 
 ---
 
-## 🛠 Skills
+## Skills
 - Excel (Pivot Tables, dashboards, data cleaning)
 - Python (Pandas, analysis, modeling)
 - Data visualization
@@ -37,7 +37,7 @@ Tracked and analyzed opponent tendencies for a high school football team using E
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 LinkedIn: www.linkedin.com/in/tanner-corn  
 Email: tannercorn03@gmail.com
 
