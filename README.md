@@ -19,11 +19,11 @@ Built a data-driven ranking system using full-season box score statistics and pe
 
 ### 🚴 Bike Share Customer Analysis
 Analyzed behavioral differences between casual riders and members to recommend marketing strategies that increase conversions.
-→ [View Project](./bike-customer-analysis)
+→ [View Project](https://github.com/tannercorn03/tanner-analytics-portfolio/tree/main/bike-customer-analysis)
 
 ### 🏈 Football Defensive Analytics
 Tracked and analyzed opponent tendencies for a high school football team using Excel pivot tables to support game planning.
-→ [View Project](./football-analysis)
+→ [View Project](https://github.com/tannercorn03/tanner-analytics-portfolio/tree/main/football-analysis)
 
 ---
 
