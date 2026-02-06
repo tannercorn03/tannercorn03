@@ -15,7 +15,7 @@ Currently seeking opportunities in:
 
 ### 🏀 Basketball Team Ranking Model (Python)
 Built a data-driven ranking system using full-season box score statistics and performance metrics.
-→ [View Project](./basketball-ranking-model)
+→ [View Project](https://github.com/tannercorn03/tanner-analytics-portfolio/tree/main/basketball-ranking-model)
 
 ### 🚴 Bike Share Customer Analysis
 Analyzed behavioral differences between casual riders and members to recommend marketing strategies that increase conversions.
